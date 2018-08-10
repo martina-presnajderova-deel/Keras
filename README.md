@@ -1,4 +1,4 @@
-#Run Simple REgression/Classification Keras Demo
+# Keras Demo - Regression/Classification
 
 **What?** Keras is a wrapper on top of Tensorflow and Theano. It is an easy-to-use high-level neural networks API to develop and evaluate deep learning models.
 
